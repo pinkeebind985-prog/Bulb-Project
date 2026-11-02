@@ -1,12 +1,12 @@
 # Bulb On/Off Project
 
-Yeh ek simple interactive web application hai jisme HTML, CSS aur JavaScript ka use karke ek virtual bulb ko ON aur OFF karne ka feature banaya gaya hai.
+A simple and interactive web application built with HTML, CSS, and JavaScript that allows users to turn a virtual bulb ON and OFF.
 
 ## Features
-* Clean aur attractive design (CSS)
-* Interactive switch button jo bulb ki state ko change karta hai (JavaScript)
+* Clean and attractive user interface designed with CSS.
+* Interactive toggle switch powered by JavaScript to change the bulb's state dynamically.
 
 ## Tech Stack
-* **HTML5:** Page ka structure banane ke liye
-* **CSS3:** Design aur styling ke liye
-* **JavaScript:** Bulb on/off hone ka action (Interactivity) karne ke liye
+* **HTML5:** Used for structuring the web page content.
+* **CSS3:** Used for styling and layout design.
+* **JavaScript:** Used for adding interactivity and handling the bulb ON/OFF functionality.
